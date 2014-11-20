@@ -5,7 +5,7 @@ What (high-level) problem does it solve?
 
 ## How does it help?
 
-Using this Project Name you can create ... in no time
+Using this Project Name you can create 1) 2) and 3) in no time!
 
 ## Who can benefit from it?
 
